@@ -1,0 +1,15 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "1. COMMAND\r     1. PUBLISH\r     2. SUBSCRIBE\r     3. UNSUBSCRIBE\r     4. TOPICS\r     5. CREATE\r 2. ERROR\r 3. RESPONSE",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
